@@ -19,3 +19,23 @@ td > code {
     border-radius: 0 !important;
     padding: 0 !important;
 }
+
+.container-lg {
+    position: relative;
+}
+
+.headshot {
+    height: 96px;
+    margin: 0;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    width: 96px;
+}
+
+.headshot img {
+    border: 5px solid white;
+    border-radius: 100%;
+    box-sizing: border-box;
+    filter: grayscale(1);
+}

@@ -5,7 +5,11 @@ layout: default
 
 # Billy Whited
 
-[LinkedIn][linkedin] &nbsp;\|&nbsp; [rocketspops@gmail.com][email] &nbsp;\|&nbsp; 612-991-8900 &nbsp;\|&nbsp; St. Paul, MN
+<figure class="headshot">
+    <img src="assets\images\headshot.jpg">
+</figure>
+
+[LinkedIn][linkedin] &nbsp;\|&nbsp; [rocketspops@gmail.com][email] &nbsp;\|&nbsp; 612-991-8900
 
 ### Summary
 
@@ -30,7 +34,7 @@ Communication • Writing • Leadership • Management • Digital Transformati
 
 ### Experience
 
-**Sr. Director of UI Design and Development, [Ameriprise Financial][ampf]**
+**Sr. Dir., UI Design and Development, [Ameriprise][ampf]**
 <br>
 Minneapolis, MN &nbsp;\|&nbsp; May 2016 – Present
 
@@ -46,7 +50,7 @@ Operations team.
 from product, development, analytics and market research to ensure the
 ongoing success of the product design team.
 
-**Director of UI Design, [Centro][centro]**
+**Dir., UI Design, [Centro][centro]**
 <br>
 Chicago, IL &nbsp;\|&nbsp; November 2012 – May 2016
 
