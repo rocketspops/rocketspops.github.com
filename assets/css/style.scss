@@ -1,0 +1,21 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+p, ul {
+    line-height: 1.75;
+    width: 80%;
+}
+
+@media screen and (max-width: 1024px) {
+
+    p, ul { width: 100%; }
+
+}
+
+td > code {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+}
