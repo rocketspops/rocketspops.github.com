@@ -3,13 +3,13 @@ title: Resume
 layout: default
 ---
 
-# Billy Whited
+# [Billy Whited][linkedin]
 
 <figure class="headshot">
     <img src="assets\images\headshot.jpg">
 </figure>
 
-[LinkedIn][linkedin] &nbsp;\|&nbsp; [rocketspops@gmail.com][email] &nbsp;\|&nbsp; 612-991-8900
+[rocketspops@gmail.com][email] &nbsp;\|&nbsp; 612-991-8900
 
 ### Summary
 
